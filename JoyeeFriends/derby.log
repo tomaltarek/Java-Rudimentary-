@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 11 01:34:36 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016e-5962-c5c8-00000355cb68 
+on database directory C:\Users\Tomal\eclipse-workspace\JoyeeFriends\tomaldb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/Tomal/eclipse-workspace/JoyeeFriends/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\Tomal\eclipse-workspace\JoyeeFriends
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
