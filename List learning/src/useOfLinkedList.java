@@ -22,7 +22,7 @@ public class useOfLinkedList {
 		}
 		
 		else {
-			System.out.println("give next element: ?\n");
+			System.out.println("give next element: \n");
 			linkedList.add(sc.nextInt());
 		}
 		
