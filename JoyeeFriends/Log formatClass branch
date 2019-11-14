@@ -1,0 +1,4 @@
+Note from formatClass branch: 
+This branch is created for: 
+
+1. Writing a class (Beautify) that can be accessible from both QueryDB and Crud to provide a SQL environment
