@@ -19,8 +19,8 @@ public class Crud {
 		System.out.println("============================================================");
 		System.out.println("Give me a sql statement");
 		System.out.println("SQL > ");
-		Scanner scanner=new Scanner(System.in);
-		statement=scanner.nextLine();
+		
+		statement=Beautify.multiLine();
 	
 		connection.createStatement().execute(statement);
 		System.out.println("Your statement has successfully executed, thank you ");
